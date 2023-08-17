@@ -64,7 +64,7 @@
 }
 
 .headerIcon {
-    color: lightgray;
+    color: rgb(99, 96, 96);
 }
 
 .headerSearchItem {
@@ -79,7 +79,7 @@
 }
 
 .headerSearchText {
-    color: lightgray;
+    color: rgb(99, 96, 96);
     cursor: pointer;
 }
 
@@ -93,6 +93,7 @@
     z-index: 2;
     position: absolute;
     top: 50px;
+    right: 200px;
     background-color: white;
     color: gray;
     border-radius: 5px;
